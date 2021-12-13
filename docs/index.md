@@ -53,6 +53,7 @@ __Good2Go__, Consultant
 - Built product ordering and supply predictive algorithms for chips and beverages categories
 - Established standardized SQL calls and connections for PowerBI dashboards
 - Found over $35k in waste and saved over 200 annual hours of store quality control work 
+- GRAND QUESTION EXAMPLE FORK
 
 ### Data Science Consulting Team
 
